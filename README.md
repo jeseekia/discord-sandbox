@@ -1,6 +1,6 @@
 # Discord Sandbox
 
-A week 1 practice repository for Detroit Hacker House interns.
+A Discord bot practice repository for command handling, routing logic, and support workflows.
 
 This repo is intentionally designed to help you practice:
 
